@@ -1,0 +1,5 @@
+﻿  Firework.cpp
+c:\users\leeyoshinari\desktop\fireworks\fireworks\fireworks\firework.cpp(56): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\leeyoshinari\desktop\fireworks\fireworks\fireworks\firework.cpp(245): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  FireWorks.vcxproj -> C:\Users\leeyoshinari\Desktop\FireWorks\FireWorks\Debug\FireWorks.exe
+  FireWorks.vcxproj -> C:\Users\leeyoshinari\Desktop\FireWorks\FireWorks\Debug\FireWorks.pdb (Partial PDB)
