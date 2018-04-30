@@ -1,6 +1,6 @@
 # FireWorks
 
-Full screen bloom foreworks.
+Full screen bloom fireworks.
 
 ### Display
 
