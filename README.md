@@ -4,7 +4,7 @@ Full screen bloom foreworks.
 
 ### Display
 
-[]()
+[](https://github.com/leeyoshinari/FireWorks/blob/master/res/Animation.gif)
 
 ### Requirement
 
