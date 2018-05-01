@@ -168,9 +168,9 @@ void Chose(DWORD& t1)
 		if (n < 13 && Jet[n].shoot == false && Fire[n].show == false)
 		{
 			Jet[n].x = rand() % W;
-			Jet[n].y = rand() % 100 + 650;
+			Jet[n].y = rand() % 100 + H - 100;
 			Jet[n].hx = Jet[n].x;
-			Jet[n].hy = rand() % 390 + 10;
+			Jet[n].hy = rand() % (H/5*2) + 20;
 			Jet[n].height = Jet[n].y - Jet[n].hy;
 			Jet[n].shoot = true;
 			putimage(Jet[n].x, Jet[n].y, &Jet[n].img[Jet[n].n], SRCINVERT);
@@ -238,7 +238,7 @@ void Style(DWORD& st1)
 	if (st2 - st1 > 1)
 	{
 		int x[14] = { 40, 55, 72, 80, 75, 60, 40, 20, 5, 0, 8, 25, 40 };
-		int y[14] = { 20, 3, 10, 25, 40, 60, 80, 60, 40, 25, 10, 3, 20 };
+		int y[14] = { 20, 3, 10, 25, 40, 60, 80, 60, 40, 25, 10, 3, 80 };
 		for (int i = 0; i < NUM; i++)
 		{
 			cleardevice();
