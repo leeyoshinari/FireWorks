@@ -8,7 +8,7 @@ Full screen bloom fireworks.
 
 ### Requirement
 
-1. Configure `Easyx Library`.
+1. Configure [`Easyx Library`](https://easyx.cn/a/easyx).
 2. Visual Studio 2015 or 2017.
 
 ### Note
